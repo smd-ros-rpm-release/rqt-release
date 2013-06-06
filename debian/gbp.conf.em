@@ -1,3 +1,3 @@
 [git-buildpackage]
-upstream-branch=release/rqt_gui/0.2.8
+upstream-branch=@(release_tag)
 upstream-tree=branch
