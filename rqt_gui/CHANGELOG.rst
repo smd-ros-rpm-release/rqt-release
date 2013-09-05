@@ -1,6 +1,9 @@
 Changelog for package rqt_gui
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.11 (2013-09-06)
+-------------------
+
 0.2.10 (2013-08-21)
 -------------------
 * add application icon (`#82 <https://github.com/ros-visualization/rqt/issues/82>`_)
