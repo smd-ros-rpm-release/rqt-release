@@ -1,0 +1,34 @@
+ros-groovy-rqt-gui (0.2.11-0oneiric) oneiric; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Thu, 05 Sep 2013 22:00:00 -0000
+
+ros-groovy-rqt-gui (0.2.10-0oneiric) oneiric; urgency=high
+
+  * add application icon (#82 <https://github.com/ros-visualization/rqt/issues/82>)
+  * improve error message when plugin xml file does not exist
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Tue, 20 Aug 2013 22:00:00 -0000
+
+ros-groovy-rqt-gui (0.2.9-0oneiric) oneiric; urgency=high
+
+  * make plugin resources relative to plugin.xml (ros-visualization/qt_gui_core#16 <https://github.com/ros-visualization/qt_gui_core/issues/16>)
+  * use standard rospy function to filter remapping arguments (#76 <https://github.com/ros-visualization/rqt/issues/76>)
+  * fix help provider
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 05 Jun 2013 22:00:00 -0000
+
+ros-groovy-rqt-gui (0.2.8-0oneiric) oneiric; urgency=high
+
+  * properly ignore ROS remapping arguments when passed in via command line
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Thu, 10 Jan 2013 23:00:00 -0000
+
+ros-groovy-rqt-gui (0.2.7-0oneiric) oneiric; urgency=high
+
+  * first public release for Groovy
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Sun, 30 Dec 2012 23:00:00 -0000
+
+
