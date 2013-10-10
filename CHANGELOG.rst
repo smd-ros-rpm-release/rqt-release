@@ -2,6 +2,9 @@
 Changelog for package rqt_gui_cpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.12 (2013-10-09)
+-------------------
+
 0.2.11 (2013-09-06)
 -------------------
 * fix wait for master for cpp plugins (`ros-visualization/rqt_common_plugins#173 <https://github.com/ros-visualization/rqt_common_plugins/issues/173>`_)
