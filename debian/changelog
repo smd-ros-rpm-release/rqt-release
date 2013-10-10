@@ -1,0 +1,38 @@
+ros-hydro-rqt-gui-cpp (0.2.12-0precise) precise; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 09 Oct 2013 07:00:00 -0000
+
+ros-hydro-rqt-gui-cpp (0.2.11-0precise) precise; urgency=high
+
+  * fix wait for master for cpp plugins (ros-visualization/rqt_common_plugins#173 <https://github.com/ros-visualization/rqt_common_plugins/issues/173>)
+  * detect master with background thread (ros-visualization/rqt_common_plugins#169 <https://github.com/ros-visualization/rqt_common_plugins/issues/169>)
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 06 Sep 2013 07:00:00 -0000
+
+ros-hydro-rqt-gui-cpp (0.2.10-0precise) precise; urgency=high
+
+  * check for master before loading a plugin and ask the user if not found (#67 <https://github.com/ros-visualization/rqt/issues/67>)
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 21 Aug 2013 07:00:00 -0000
+
+ros-hydro-rqt-gui-cpp (0.2.9-0precise) precise; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Thu, 06 Jun 2013 07:00:00 -0000
+
+ros-hydro-rqt-gui-cpp (0.2.8-0precise) precise; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 11 Jan 2013 08:00:00 -0000
+
+ros-hydro-rqt-gui-cpp (0.2.7-0precise) precise; urgency=high
+
+  * first public release for Groovy
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Mon, 31 Dec 2012 08:00:00 -0000
+
+
