@@ -1,5 +1,28 @@
 ## rqt - 0.2.13-0
 
+User `dthomas@drudge` released the packages in the `rqt` repository by running `/usr/bin/bloom-release -r indigo -t indigo rqt` on `Thu, 13 Feb 2014 01:29:10 -0000`
+
+These packages were released:
+- `rqt`
+- `rqt_gui`
+- `rqt_gui_cpp`
+- `rqt_gui_py`
+
+Version of package(s) in repository `rqt`:
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.2.13-0`
+
+Versions of tools used:
+- bloom version: `0.4.9`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
+## rqt - 0.2.13-0
+
 User `dthomas@drudge` released the packages in the `rqt` repository by running `/usr/bin/bloom-release -r hydro -t hydro rqt` on `Wed, 08 Jan 2014 23:56:21 -0000`
 
 These packages were released:
