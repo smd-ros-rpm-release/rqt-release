@@ -2,6 +2,13 @@
 Changelog for package rqt_gui_cpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.14 (2014-03-04)
+-------------------
+* add ros spinner thread for cpp plugins (`#95 <https://github.com/ros-visualization/rqt/issues/95>`_)
+
+0.2.13 (2014-01-08)
+-------------------
+
 0.2.12 (2013-10-09)
 -------------------
 
