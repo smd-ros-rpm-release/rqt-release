@@ -1,3 +1,26 @@
+## rqt (indigo) - 0.2.14-1
+
+The packages in the `rqt` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo rqt` on `Wed, 21 May 2014 17:27:06 -0000`
+
+These packages were released:
+- `rqt`
+- `rqt_gui`
+- `rqt_gui_cpp`
+- `rqt_gui_py`
+
+Version of package(s) in repository `rqt`:
+- rosdistro version: `0.2.14-0`
+- old version: `0.2.14-0`
+- new version: `0.2.14-1`
+
+Versions of tools used:
+- bloom version: `0.5.8`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## rqt (groovy) - 0.2.14-0
 
 User `dthomas@drudge` released the packages in the `rqt` repository into the `groovy` distro by running `/usr/bin/bloom-release -r groovy -t groovy rqt` on `Tue, 04 Mar 2014 18:57:50 -0000`
