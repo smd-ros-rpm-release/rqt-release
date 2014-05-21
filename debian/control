@@ -1,0 +1,12 @@
+Source: ros-indigo-rqt-gui-cpp
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-nodelet, ros-indigo-qt-gui (>= 0.2.22), ros-indigo-qt-gui-cpp (>= 0.2.22), ros-indigo-roscpp
+Homepage: http://ros.org/wiki/rqt_gui_cpp
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rqt-gui-cpp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-nodelet, ros-indigo-qt-gui (>= 0.2.22), ros-indigo-qt-gui-cpp (>= 0.2.22), ros-indigo-roscpp
+Description: rqt_gui_cpp enables GUI plugins to use the C++ client library for ROS.
